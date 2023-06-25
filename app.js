@@ -1,8 +1,6 @@
 //app.js
 
-// TODO wrap routes to be protected for role based authentication
-// TODO wrap any path.splits in here with try catch so we don't crash on a malformed url
-// TODO view/routes needed:
+
 /*
 
 ===GET routes/views===
